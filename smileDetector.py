@@ -1,4 +1,9 @@
-# Homework Solution
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul  3 01:30:41 2019
+@author: jing
+"""
 
 # Importing the libraries
 import cv2
